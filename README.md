@@ -1,5 +1,5 @@
-# Meu Jardim 🌱
+# meu jardim 🌱
 
-Meu Jardim é um aplicativo que auxilia na rotina de cuidados das suas plantinhas. 
+meu jardim é um aplicativo que auxilia na rotina de cuidados das suas plantinhas. 
 
-Meu Jardim também é um projeto de conclusão de curso. 💚
+meu jardim também é um projeto de conclusão de curso. 💚
