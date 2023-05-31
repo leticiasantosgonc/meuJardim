@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "785480628832",
+    "project_id": "meujardim",
+    "storage_bucket": "meujardim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785480628832:android:894f931ebe039e1f272105",
+        "android_client_info": {
+          "package_name": "com.mycompany.meujardim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785480628832-unf71n00r3k5a14sios3u6mbk78emhkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.meujardim",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "785480628832-1g0akk29p2b81futgrdrj90qbiik3bl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHffk_A64Qk81mZVGZ5hSPJTA4w7neoGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785480628832-1g0akk29p2b81futgrdrj90qbiik3bl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785480628832-36sjgjpgmfksk7qvge53kqnguu0ud6aj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.meujardim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
