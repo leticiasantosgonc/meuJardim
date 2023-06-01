@@ -98,7 +98,7 @@ class _EntrarWidgetState extends State<EntrarWidget>
                       Flexible(
                         child: FaIcon(
                           FontAwesomeIcons.seedling,
-                          color: FlutterFlowTheme.of(context).darkMossGreen,
+                          color: FlutterFlowTheme.of(context).icons,
                           size: 24.0,
                         ).animateOnPageLoad(
                             animationsMap['iconOnPageLoadAnimation']!),
@@ -444,7 +444,7 @@ class _EntrarWidgetState extends State<EntrarWidget>
                                                   .fromSTEB(0.0, 0.0, 0.0, 0.0),
                                               color:
                                                   FlutterFlowTheme.of(context)
-                                                      .darkMossGreen,
+                                                      .botoes,
                                               textStyle:
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
@@ -986,7 +986,7 @@ class _EntrarWidgetState extends State<EntrarWidget>
                                                   .fromSTEB(0.0, 0.0, 0.0, 0.0),
                                               color:
                                                   FlutterFlowTheme.of(context)
-                                                      .tigersEye,
+                                                      .botoes,
                                               textStyle: GoogleFonts.getFont(
                                                 'Marvel',
                                                 color: Colors.white,

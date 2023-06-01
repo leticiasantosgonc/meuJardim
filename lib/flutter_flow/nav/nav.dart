@@ -80,6 +80,7 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
         FFRoute(
           name: 'Home',
           path: '/home',
+          requireAuth: true,
           builder: (context, params) => HomeWidget(),
         ),
         FFRoute(
@@ -275,7 +276,7 @@ class FFRoute {
                     width: 50.0,
                     height: 50.0,
                     child: SpinKitChasingDots(
-                      color: FlutterFlowTheme.of(context).tigersEye,
+                      color: Color(0xFF283618),
                       size: 50.0,
                     ),
                   ),

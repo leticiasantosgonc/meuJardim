@@ -54,10 +54,9 @@ abstract class FlutterFlowTheme {
   late Color error;
   late Color info;
 
-  late Color darkMossGreen;
-  late Color pakistanGreen;
-  late Color earthYellow;
-  late Color tigersEye;
+  late Color botoes;
+  late Color iconsHover;
+  late Color icons;
 
   @Deprecated('Use displaySmallFamily instead')
   String get title1Family => displaySmallFamily;
@@ -147,10 +146,9 @@ class LightModeTheme extends FlutterFlowTheme {
   late Color error = const Color(0xFFFF5963);
   late Color info = const Color(0xFFFFFFFF);
 
-  late Color darkMossGreen = Color(0xFF606C38);
-  late Color pakistanGreen = Color(0xFF283618);
-  late Color earthYellow = Color(0xFFDDA15E);
-  late Color tigersEye = Color(0xFFBC6C25);
+  late Color botoes = Color(0xFF588157);
+  late Color iconsHover = Color(0xFFA7C957);
+  late Color icons = Color(0xFF6A994E);
 }
 
 abstract class Typography {
@@ -323,10 +321,9 @@ class DarkModeTheme extends FlutterFlowTheme {
   late Color error = const Color(0xFFFF5963);
   late Color info = const Color(0xFFFFFFFF);
 
-  late Color darkMossGreen = Color(0xFF606C38);
-  late Color pakistanGreen = Color(0xFF283618);
-  late Color earthYellow = Color(0xFFDDA15E);
-  late Color tigersEye = Color(0xFFBC6C25);
+  late Color botoes = Color(0xFF588157);
+  late Color iconsHover = Color(0xFFA7C957);
+  late Color icons = Color(0xFF6A994E);
 }
 
 extension TextStyleHelper on TextStyle {
