@@ -1,5 +1,11 @@
-# meu jardim 🌱
+<div align="center">
+  <h1>meu jardim 🌱</h1>
+  <p > Aplicativo que auxilia na rotina de cuidados das suas plantinhas</p> 
+  <p> Também é um projeto de conclusão de curso. </p>
+  
+  **Status:**  Em construção 🔨
+</div>
 
-meu jardim é um aplicativo que auxilia na rotina de cuidados das suas plantinhas. 
-
-meu jardim também é um projeto de conclusão de curso. 💚
+ **Tecnologias** 
+- [FlutterFlow](https://flutterflow.io/)
+- [Firebase](https://firebase.google.com/?hl=pt)
